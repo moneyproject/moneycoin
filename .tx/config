@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+
+[moneycore.moneyclient_qt]
+file_filter = src/qt/locale/moneyclient_<lang>.ts
+source_file = src/qt/locale/moneyclient_en.ts
+source_lang = en
+type = QT
+
