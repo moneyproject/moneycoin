@@ -1,4 +1,4 @@
-
+![MoneyCash Logo](https://github.com/moneyproject/moneycoin/blob/master/logo_coin.png?raw=true)
 [![Slack](https://slack.moneycoin.pw/badge.svg)](https://slack.moneycoin.pw/)
 [![Gitter](https://badges.gitter.im/moneyproject/money.svg)](https://gitter.im/moneyproject/money?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge) [![Build Status](https://travis-ci.org/moneyproject/money.svg?branch=master)](https://travis-ci.org/moneyproject/money) [![Code Climate](https://codeclimate.com/github/moneyproject/money/badges/gpa.svg)](https://codeclimate.com/github/moneyproject/money) [![Test Coverage](https://codeclimate.com/github/moneyproject/money/badges/coverage.svg)](https://codeclimate.com/github/moneyproject/money/coverage) 
 
