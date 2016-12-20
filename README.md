@@ -56,6 +56,9 @@ Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labeled 'stale'.
 
+Big thanks to ShadowCash developers team
+
+
 Building Money
 ===========================
 
